@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\Programacao\\Cursos_Presenciais\\Programando_seu_Futuro\\Monitor_2024\\Modulo1\\Aula03\\Exercicio01\\Exercicio01.csproj": {}
+    "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\Programacao\\Cursos_Presenciais\\Programando_seu_Futuro\\Monitor_2024\\Modulo1\\Aula04\\Exercicio05\\Exercicio05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\Programacao\\Cursos_Presenciais\\Programando_seu_Futuro\\Monitor_2024\\Modulo1\\Aula03\\Exercicio01\\Exercicio01.csproj": {
+    "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\Programacao\\Cursos_Presenciais\\Programando_seu_Futuro\\Monitor_2024\\Modulo1\\Aula04\\Exercicio05\\Exercicio05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\Programacao\\Cursos_Presenciais\\Programando_seu_Futuro\\Monitor_2024\\Modulo1\\Aula03\\Exercicio01\\Exercicio01.csproj",
-        "projectName": "Exercicio01",
-        "projectPath": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\Programacao\\Cursos_Presenciais\\Programando_seu_Futuro\\Monitor_2024\\Modulo1\\Aula03\\Exercicio01\\Exercicio01.csproj",
+        "projectUniqueName": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\Programacao\\Cursos_Presenciais\\Programando_seu_Futuro\\Monitor_2024\\Modulo1\\Aula04\\Exercicio05\\Exercicio05.csproj",
+        "projectName": "Exercicio05",
+        "projectPath": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\Programacao\\Cursos_Presenciais\\Programando_seu_Futuro\\Monitor_2024\\Modulo1\\Aula04\\Exercicio05\\Exercicio05.csproj",
         "packagesPath": "C:\\Users\\muril\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\Programacao\\Cursos_Presenciais\\Programando_seu_Futuro\\Monitor_2024\\Modulo1\\Aula03\\Exercicio01\\obj\\",
+        "outputPath": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\Programacao\\Cursos_Presenciais\\Programando_seu_Futuro\\Monitor_2024\\Modulo1\\Aula04\\Exercicio05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\muril\\AppData\\Roaming\\NuGet\\NuGet.Config"
