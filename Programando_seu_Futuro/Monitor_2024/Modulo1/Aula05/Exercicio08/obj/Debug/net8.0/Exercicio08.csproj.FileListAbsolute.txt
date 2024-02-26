@@ -1,0 +1,15 @@
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\Cursos_Presenciais\Programando_seu_Futuro\Monitor_2024\Modulo1\Aula05\Exercicio08\bin\Debug\net8.0\Exercicio08.exe
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\Cursos_Presenciais\Programando_seu_Futuro\Monitor_2024\Modulo1\Aula05\Exercicio08\bin\Debug\net8.0\Exercicio08.deps.json
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\Cursos_Presenciais\Programando_seu_Futuro\Monitor_2024\Modulo1\Aula05\Exercicio08\bin\Debug\net8.0\Exercicio08.runtimeconfig.json
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\Cursos_Presenciais\Programando_seu_Futuro\Monitor_2024\Modulo1\Aula05\Exercicio08\bin\Debug\net8.0\Exercicio08.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\Cursos_Presenciais\Programando_seu_Futuro\Monitor_2024\Modulo1\Aula05\Exercicio08\bin\Debug\net8.0\Exercicio08.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\Cursos_Presenciais\Programando_seu_Futuro\Monitor_2024\Modulo1\Aula05\Exercicio08\obj\Debug\net8.0\Exercicio08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\Cursos_Presenciais\Programando_seu_Futuro\Monitor_2024\Modulo1\Aula05\Exercicio08\obj\Debug\net8.0\Exercicio08.AssemblyInfoInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\Cursos_Presenciais\Programando_seu_Futuro\Monitor_2024\Modulo1\Aula05\Exercicio08\obj\Debug\net8.0\Exercicio08.AssemblyInfo.cs
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\Cursos_Presenciais\Programando_seu_Futuro\Monitor_2024\Modulo1\Aula05\Exercicio08\obj\Debug\net8.0\Exercicio08.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\Cursos_Presenciais\Programando_seu_Futuro\Monitor_2024\Modulo1\Aula05\Exercicio08\obj\Debug\net8.0\Exercicio08.sourcelink.json
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\Cursos_Presenciais\Programando_seu_Futuro\Monitor_2024\Modulo1\Aula05\Exercicio08\obj\Debug\net8.0\Exercicio08.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\Cursos_Presenciais\Programando_seu_Futuro\Monitor_2024\Modulo1\Aula05\Exercicio08\obj\Debug\net8.0\refint\Exercicio08.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\Cursos_Presenciais\Programando_seu_Futuro\Monitor_2024\Modulo1\Aula05\Exercicio08\obj\Debug\net8.0\Exercicio08.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\Cursos_Presenciais\Programando_seu_Futuro\Monitor_2024\Modulo1\Aula05\Exercicio08\obj\Debug\net8.0\Exercicio08.genruntimeconfig.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Programacao\Cursos_Presenciais\Programando_seu_Futuro\Monitor_2024\Modulo1\Aula05\Exercicio08\obj\Debug\net8.0\ref\Exercicio08.dll
